@@ -1,6 +1,6 @@
 # Projet-Graphic_Interactive_Interface_Tkinter_Pygame
-[French] Projet de menu avec une interface graphique 
-[English] Menu project with a graphical interface 
+[French] Projet de menu avec une interface graphique   
+[English] Menu project with a graphical interface   
 
 
 <div align="center">
